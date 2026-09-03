@@ -17,6 +17,11 @@ p {
     font-size: 30px;
 }
 
+.Lista {
+    font-size: 50px;
+}
+
+
 .Spiderman{
     width: 1100px;
     height: auto;
@@ -37,11 +42,6 @@ p {
     height: auto;
 }
 
-.Ironman{
-    width: 1100px;
-    height: auto;
-}
-
 .Thor{
     width: 1100px;
     height: auto;
@@ -53,7 +53,7 @@ p {
 }
 
 
-.volver-arriba {
+.arriba {
     position: fixed;
     bottom: 20px;
     right: 50px;
